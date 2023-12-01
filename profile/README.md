@@ -1,7 +1,7 @@
-## 최애의 학식
+# 최애의 학식
 '최애의 학식' 프로젝트는 대학 캠퍼스 내의 사용자들을 대상으로 한 통합 커뮤니케이션 및 정보 제공 플랫폼을 제공한다. 본 플랫폼은 실시간 채팅, 사용자 매칭, 식당 정보 조회, 매칭 게시글 관리 등의 주요 기능을 포함하고 있다. 사용자는 간편한 인터페이스를 통해 손쉽게 이러한 서비스를 이용할 수 있으며, 학교 생활에서의 소통과 정보 교환을 효율적으로 진행할 수 있다. 프로젝트의 최종 목표는 대학생과 교직원의 캠퍼스 생활의 편의성과 만족도를 향상시키는 것이다.
 
-## 팀소개
+# 팀소개
 <table>
   <tbody>
     <tr>
@@ -15,10 +15,9 @@
   </tbody>
 </table>
 
-## 기술 스택
+# 기술 스택
 ### Backend
 ![image](https://github.com/Favorite-School-Meal/.github/assets/101257697/db540790-bf0c-4014-ad5f-d34153b98b90)
-
 - Spring 3.1.4
 - Java 17
 - MySQL
@@ -31,15 +30,23 @@
 - Swagger
 - lombok
 
-### 프론트엔드 기술스택
+### 실행방법
+<a href= "https://github.com/Favorite-School-Meal/favorite-school-meal-was">Server-Repository</a>
+
+
+
+### FrontEnd
 - Javascript
 - React
 - JSX
 - React Hook
 - React Router
 - axios
-- Cookies
+- WebCookies
 - Kakao Maps API
+
+### 실행방법
+<a href= "https://github.com/Favorite-School-Meal/favorite-school-meal-client">Client-Repository</a>
 
 ## 아키텍처
 ![image](https://github.com/Favorite-School-Meal/.github/assets/79460319/c0f6d368-9d4e-4c21-a228-57b0a540f2f0)
