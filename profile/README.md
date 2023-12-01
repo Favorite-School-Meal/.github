@@ -17,6 +17,8 @@
 
 ## 기술 스택
 ### Backend
+![image](https://github.com/Favorite-School-Meal/.github/assets/101257697/db540790-bf0c-4014-ad5f-d34153b98b90)
+
 - Spring 3.1.4
 - Java 17
 - MySQL
