@@ -15,6 +15,9 @@
   </tbody>
 </table>
 
+# 프로젝트 소개
+'최애의 학식' 프로젝트는 사용자가 보다 쉽게 이용하기 위해 HTML 기반 웹 브라우저로 동작하는 모바일 웹기반 서비스이다.
+
 # 기술 스택
 ### Backend
 ![image](https://github.com/Favorite-School-Meal/.github/assets/101257697/db540790-bf0c-4014-ad5f-d34153b98b90)
